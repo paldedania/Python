@@ -9,4 +9,6 @@
 - Python3  "filename.py"  => to run the file.
 -  #  => used to write comments.
 - print("") => If you write any text inside "" then it will be printed and if its not in "" then it will be considred as a variable.
+
+### Aramathics
 - 

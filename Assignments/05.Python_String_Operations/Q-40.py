@@ -1,0 +1,20 @@
+first_name = input("Enter your first name: ").strip()
+last_name = input("Enter your last name: ").strip()
+city = input("Enter your city: ").strip()
+course = input("Enter your course: ").strip()
+age = input("Enter your age: ").strip()
+
+full_name = first_name + " " + last_name
+
+print("Full Name in Title Case:", full_name.title())
+print("Full Name in Uppercase:", full_name.upper())
+print("Full Name in Lowercase:", full_name.lower())
+print("Length of Full Name:", len(full_name))
+print("First Character:", full_name[0])
+print("Last Character:", full_name[-1])
+print("City:", city)
+print("Course:", course)
+print(f"Age: {age}")
+print("Course Contains Python:", "Python" in course)
+print("Course After Replacement:", course.replace("Programming", "Development", 1))
+print("Number of Words in Course:", len(course.split()))

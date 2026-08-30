@@ -10,5 +10,7 @@
 -  #  => used to write comments.
 - print("") => If you write any text inside "" then it will be printed and if its not in "" then it will be considred as a variable.
 
-### Aramathics
-- 
+### Index
+- P    Y    T    H    O    N
+- 0    1     2    3    4     5 
+- -6 -5  -4   -3  -2     -1

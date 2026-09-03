@@ -14,3 +14,15 @@
 - P    Y    T    H    O    N
 - 0    1     2    3    4     5 
 - -6 -5  -4   -3  -2     -1
+
+### Ascii
+97 - a
+65- A
+
+### order to compare
+- Not
+- And
+- Or
+
+
+

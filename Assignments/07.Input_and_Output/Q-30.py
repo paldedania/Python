@@ -1,0 +1,10 @@
+name = input("Enter the student's name: ")
+age = int(input("Enter the student's age: "))
+height = float(input("Enter the student's height: "))
+city = input("Enter the city: ")
+
+print("Student Information")
+print(f"Name: {name}")
+print(f"Age: {age}")
+print(f"Height: {height:.2f}")
+print(f"City: {city}")

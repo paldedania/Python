@@ -1,4 +1,1 @@
-a = "pal"
-b = "hello"
-print(b[1 or 10])
-print(b[1 and 9])
+print(bool("" or 1 and not None or " "))

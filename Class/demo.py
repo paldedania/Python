@@ -1,12 +1,4 @@
-num = int(input("Whats your number"))
+num = int(input("Whats your number: "))
 
-f = num%10
-num = num//10
-s = num%10
-num = num//10
-t = num%10
-num = num//10
-if num == 0:
-    print(f+s+t)
-else:
-    print("something is wrong")
+for i in range(1,11):
+    print(f"{num} * {i} = {num*i}")

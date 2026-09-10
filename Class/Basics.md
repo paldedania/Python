@@ -24,5 +24,11 @@
 - And
 - Or
 
+### LOOPS
+### FOR LOOPS
+- for var  in condition : => this is for syntax.
+- 
+
+
 
 

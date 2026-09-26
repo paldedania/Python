@@ -1,28 +1,32 @@
-# variables used
-name = input("Enter a password \n")
-count_Upper = 0
-count_Lower = 0
+name = input("Enter a password: ")
+count_upper = 0
+count_lower = 0
 count_digits = 0
-count_special_char = 0
+count_special = 0
 
-count = []
-
-# using for loop to get the count
-for i in name:
-    if i >= "A" and i<="Z":
-        count_Upper+=1
-    elif i >= "a" and i<="z":
-        count_Lower+=1
-    elif i >= "0" and i<="9":
-        count_digits+=1
+for char in name:
+    if "A" <= char <= "Z":
+        count_upper += 1
+    elif "a" <= char <= "z":
+        count_lower += 1
+    elif "0" <= char <= "9":
+        count_digits += 1
     else:
-        count_special_char+=1
+        count_special += 1
 
-total = count_digits+count_Lower+count_special_char+count_Upper
+total = len(name)
+if total > 0:
+    print("Uppercase percentage:", count_upper * 100 / total)
+    print("Lowercase percentage:", count_lower * 100 / total)
+    print("Digit percentage:", count_digits * 100 / total)
+    print("Special percentage:", count_special * 100 / total)
 
-per1 = (count_Upper/total)*100
-per2 = (count_Lower/total)*100
-per3 = (count_digits/total)*100
-per4 = (count_special_char/total)*100
-
-print(f"percentage of upperchars is {per1} then of lowercahars is {per2} then of digits is {per3} then of special char is {per4}")
+counts = [count_upper, count_lower, count_digits, count_special]
+names = ["Uppercase", "Lowercase", "Digits", "Special characters"]
+highest = 0
+category = ""
+for i in range(len(counts)):
+    if counts[i] > highest:
+        highest = counts[i]
+        category = names[i]
+print("Dominant category:", category)

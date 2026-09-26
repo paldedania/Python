@@ -1,26 +1,24 @@
-# 
+sentence = input("Enter your sentence: ")
+words = sentence.split()
+highest_word = ""
+highest_score = 0
 
-string = input("enter your sentence \n").lower()
-words = string.split()
-i = ""
-name = ""
-vowels = ["a","e","i","o","u"]
-consonants = [
-    "b", "c", "d", "f", "g", "h", "j", "k", "l", "m",
-    "n", "p", "q", "r", "s", "t", "v", "w", "x", "y", "z"
-]
-score = []
-s1 = 0
-for i in words:
-    for j in i:
-        if j in vowels:
-            s1 +=2
-        elif j >= "0" and "9" <=j :
-            s1 += 3
-        elif j in consonants:
-            s1 += 1
+for word in words:
+    score = 0
+    for char in word:
+        if char in "aeiouAEIOU":
+            score += 2
+        elif "0" <= char <= "9":
+            score += 3
+        elif ("a" <= char <= "z") or ("A" <= char <= "Z"):
+            score += 1
         else:
-            s1 += 4
-    score.append(s1)
+            score += 4
 
-print(f"total score is {score}")
+    print(word, "score:", score)
+    if score > highest_score:
+        highest_score = score
+        highest_word = word
+
+print("Word with highest score:", highest_word)
+print("Highest score:", highest_score)

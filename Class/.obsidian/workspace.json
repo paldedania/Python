@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FlowChart.md",
+                "file": "Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FlowChart"
+              "title": "Basics"
             }
           }
         ],
@@ -203,9 +203,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a160bc6c99361d0d",
+  "active": "7b36533585053cb1",
   "lastOpenFiles": [
-    "Basics.md",
-    "FlowChart.md"
+    "FlowChart.md",
+    "Basics.md"
   ]
 }

@@ -27,8 +27,15 @@
 ### LOOPS
 ### FOR LOOPS
 - for var  in condition : => this is for syntax.
-- 
 
 
 
-
+## Match Case
+match {var}:
+    case {1}:
+		operations
+	case {2}:
+		operations
+	...
+	case{ _ }:
+	    default case

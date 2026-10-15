@@ -1,0 +1,1 @@
+print(mul(sub(add(a,b),c),d))

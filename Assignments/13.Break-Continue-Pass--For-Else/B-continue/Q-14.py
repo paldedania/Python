@@ -8,6 +8,4 @@ for item in marks:
     print(mark, end=" ")
     printed_a_mark = True
 
-if not printed_a_mark:
-    print("No marks printed", end="")
 print()

@@ -1,4 +1,4 @@
-highest_marks = 0
+highest_marks = -1
 highest_student = ""
 
 for i in range(5):

@@ -1,4 +1,8 @@
-for i in range(1,6):
-    for j in range(1,2*(i),2):
-        print(j,end=" ")
-    print()
+# Outer loop controls rows; inner loop controls items in a row.
+for row in range(1, 6):
+    line = ""
+    for col in range(row):
+        if line:
+            line += ' '
+        line += str(2 * col + 1)
+    print(line)

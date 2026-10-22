@@ -1,3 +1,3 @@
 student = "Rahul"
 student_name = "Rahul"
-Branch = "B.Tech"
+student_course = "B.Tech"

@@ -18,7 +18,7 @@ for i in range(6):
     print(f"price of {i} unit is {price}")
     if price>3000:
         print("High")
-    elif price>1000:
+    elif price>=1000:
         print("Medium")
     else:
         print("Low")

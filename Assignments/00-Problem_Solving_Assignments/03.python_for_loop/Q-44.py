@@ -16,12 +16,12 @@ for i in range(transactions):
     else:
         print("Invalid transaction")
 
-if balance < 0:
+    if balance < 0:
         print("Overdraft")
-elif balance < 500:
-    print("Low Balance")
-else:
-    print("Normal")
+    elif balance < 500:
+        print("Low Balance")
+    else:
+        print("Normal")
 
 print("Total deposits:", total_deposits)
 print("Total withdrawals:", total_withdrawals)

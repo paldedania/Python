@@ -1,0 +1,198 @@
+{
+  "repository": "https://github.com/codinggita/CGxSU_Semester_1",
+  "branch": "main",
+  "treeSha": "5b4cd3ea5de900a96310c1f3b48669e9846a9b44",
+  "retrievedOn": "2026-10-22",
+  "files": [
+    {
+      "path": "Semester_1/python/00.Problem_Solving_Assignments/01.Python_If_Else_30_Problem_Solving.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/00.Problem_Solving_Assignments/01.Python_If_Else_30_Problem_Solving.md",
+      "gitBlobSha": "2253d3517710fbd94f07add0448b1a26b27595ff"
+    },
+    {
+      "path": "Semester_1/python/00.Problem_Solving_Assignments/02.Nested_For_Loop_Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/00.Problem_Solving_Assignments/02.Nested_For_Loop_Assignment.md",
+      "gitBlobSha": "a8129c4aad8571c68089043302eb258bfa321313"
+    },
+    {
+      "path": "Semester_1/python/00.Problem_Solving_Assignments/03.For_Loops_Strings_Conditional_Statements_Problem_Solving.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/00.Problem_Solving_Assignments/03.For_Loops_Strings_Conditional_Statements_Problem_Solving.md",
+      "gitBlobSha": "7938bf668d022da2dd2238feabfbf3b812cccb05"
+    },
+    {
+      "path": "Semester_1/python/00.Problem_Solving_Assignments/04.nested_for_loop.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/00.Problem_Solving_Assignments/04.nested_for_loop.md",
+      "gitBlobSha": "b8f3ec31e9c3d01c2f7c80ddf8b08081dde1c214"
+    },
+    {
+      "path": "Semester_1/python/00.Python_Installation_VS_Code_Setup/Python_Installation_VS_Code_Setup.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/00.Python_Installation_VS_Code_Setup/Python_Installation_VS_Code_Setup.md",
+      "gitBlobSha": "5362cb4fa31d5bb845b211e6d39deaab7540be66"
+    },
+    {
+      "path": "Semester_1/python/01.Introduction_to_Python/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/01.Introduction_to_Python/Assignment.md",
+      "gitBlobSha": "6fd6bc554279ccd4521bfd33b9880682abc4205d"
+    },
+    {
+      "path": "Semester_1/python/01.Introduction_to_Python/Introduction_to_Python.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/01.Introduction_to_Python/Introduction_to_Python.md",
+      "gitBlobSha": "42ba84ac3add52459b43e5eb962c820a2ed2fca7"
+    },
+    {
+      "path": "Semester_1/python/02.Variables/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/02.Variables/Assignment.md",
+      "gitBlobSha": "3e235baf279bde8ae192ecdc7394442a83a765db"
+    },
+    {
+      "path": "Semester_1/python/02.Variables/variables.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/02.Variables/variables.md",
+      "gitBlobSha": "b53921e453c18a89f19ece4bc7314c11edee1063"
+    },
+    {
+      "path": "Semester_1/python/03.Data_Types_and_Type_Casting/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/03.Data_Types_and_Type_Casting/Assignment.md",
+      "gitBlobSha": "4e2c7a9a443236fadf2a190299752d11bddeac87"
+    },
+    {
+      "path": "Semester_1/python/03.Data_Types_and_Type_Casting/data_types_&_type_casting.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/03.Data_Types_and_Type_Casting/data_types_&_type_casting.md",
+      "gitBlobSha": "349301464e7d9d7a2d78d46e8da22f4f9799e992"
+    },
+    {
+      "path": "Semester_1/python/04.Arithmetic_Operators/Arithmetic_Operators.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/04.Arithmetic_Operators/Arithmetic_Operators.md",
+      "gitBlobSha": "f7a5d20e92c839d5e29c745d732534f9809bba39"
+    },
+    {
+      "path": "Semester_1/python/04.Arithmetic_Operators/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/04.Arithmetic_Operators/Assignment.md",
+      "gitBlobSha": "da4c057c829ed0a3b22082e2ddac7e7c230d1f3a"
+    },
+    {
+      "path": "Semester_1/python/05.Python_String_Operations/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/05.Python_String_Operations/Assignment.md",
+      "gitBlobSha": "d1b2f69c6615729bf007110618cc0246b3968230"
+    },
+    {
+      "path": "Semester_1/python/05.Python_String_Operations/Python_String_Operations.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/05.Python_String_Operations/Python_String_Operations.md",
+      "gitBlobSha": "27fb943336c0b58aade1fd5ca38c268251fe058a"
+    },
+    {
+      "path": "Semester_1/python/06.boolean_and_logical_expressions/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/06.boolean_and_logical_expressions/Assignment.md",
+      "gitBlobSha": "bac748002e137ca675fd41936088a21990b5f302"
+    },
+    {
+      "path": "Semester_1/python/06.boolean_and_logical_expressions/boolean_and_logical_expressions.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/06.boolean_and_logical_expressions/boolean_and_logical_expressions.md",
+      "gitBlobSha": "6d06937bea0cd6b1df38b75da8043016ae039284"
+    },
+    {
+      "path": "Semester_1/python/07.input_and_output/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/07.input_and_output/Assignment.md",
+      "gitBlobSha": "ddf61b0515af630c6e57065b8fc26b273c95762d"
+    },
+    {
+      "path": "Semester_1/python/07.input_and_output/input_and_output.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/07.input_and_output/input_and_output.md",
+      "gitBlobSha": "75057ab53dbae11186d325ff2a1d6739ba98100e"
+    },
+    {
+      "path": "Semester_1/python/08.conditional_statements/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/08.conditional_statements/Assignment.md",
+      "gitBlobSha": "583871617e2a4723046973e332c89995d4dc855a"
+    },
+    {
+      "path": "Semester_1/python/08.conditional_statements/conditional_statements.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/08.conditional_statements/conditional_statements.md",
+      "gitBlobSha": "476aa6bda6408bf57409086474f8c8395a936e00"
+    },
+    {
+      "path": "Semester_1/python/09.Introduction_to_Problem_Solving/Python_Problem_Solving_01_Understanding_Problems.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/09.Introduction_to_Problem_Solving/Python_Problem_Solving_01_Understanding_Problems.md",
+      "gitBlobSha": "4a99752837405622e381916fcb452ca48a71fb5c"
+    },
+    {
+      "path": "Semester_1/python/09.Introduction_to_Problem_Solving/Python_Problem_Solving_02_IPO_and_Algorithms.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/09.Introduction_to_Problem_Solving/Python_Problem_Solving_02_IPO_and_Algorithms.md",
+      "gitBlobSha": "d1a5d50c9d689d2deb150b7cf8929ffb06be8d72"
+    },
+    {
+      "path": "Semester_1/python/09.Introduction_to_Problem_Solving/flowcharts_and_pseudocode.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/09.Introduction_to_Problem_Solving/flowcharts_and_pseudocode.md",
+      "gitBlobSha": "dd903b3143c016e044a040e6b9e235fe9a6f37a4"
+    },
+    {
+      "path": "Semester_1/python/10.For_Loop/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/10.For_Loop/Assignment.md",
+      "gitBlobSha": "c8c5736e25e557d1cb5d938a7e91f1cdde2f6da9"
+    },
+    {
+      "path": "Semester_1/python/10.For_Loop/For_Loops.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/10.For_Loop/For_Loops.md",
+      "gitBlobSha": "2c5e0f75c4ba070c4d7aba77d3014ad6a2571072"
+    },
+    {
+      "path": "Semester_1/python/11.While_Loop/while_loops.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/11.While_Loop/while_loops.md",
+      "gitBlobSha": "0eb6ff120c578148c69bc175b55e0e6eb9e8eab4"
+    },
+    {
+      "path": "Semester_1/python/12.Match_Case/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/12.Match_Case/Assignment.md",
+      "gitBlobSha": "3c16be3c242dcd1c3e248856d29f7dfff71f5dce"
+    },
+    {
+      "path": "Semester_1/python/12.Match_Case/Notes.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/12.Match_Case/Notes.md",
+      "gitBlobSha": "d7fb2b6f2ea1112ae23f0570b7425f29287b0447"
+    },
+    {
+      "path": "Semester_1/python/12.Match_Case/Practice.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/12.Match_Case/Practice.md",
+      "gitBlobSha": "29584bd5e70a990ba2d36d49587ca969336940bc"
+    },
+    {
+      "path": "Semester_1/python/13.Break_Continue_Pass_For_Else/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/13.Break_Continue_Pass_For_Else/Assignment.md",
+      "gitBlobSha": "72e4752348531511c4731532dde3824220b2ddff"
+    },
+    {
+      "path": "Semester_1/python/13.Break_Continue_Pass_For_Else/Practice.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/13.Break_Continue_Pass_For_Else/Practice.md",
+      "gitBlobSha": "df9ce68c5a5e91d05e36c0dc7bec8174a80c97f2"
+    },
+    {
+      "path": "Semester_1/python/13.Break_Continue_Pass_For_Else/break_continue_pass_notes.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/13.Break_Continue_Pass_For_Else/break_continue_pass_notes.md",
+      "gitBlobSha": "dcaa2ea2708e35bfa79aa6d3450209847492d938"
+    },
+    {
+      "path": "Semester_1/python/14.Input_Validation/Assignment.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/14.Input_Validation/Assignment.md",
+      "gitBlobSha": "a2bea7ae7976f55c499de4962e7eb124c403c119"
+    },
+    {
+      "path": "Semester_1/python/14.Input_Validation/Notes.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/14.Input_Validation/Notes.md",
+      "gitBlobSha": "02260c755857b51b2397e88b4302fc2d64aea4b0"
+    },
+    {
+      "path": "Semester_1/python/15.Functions/01.introduction_to_functions.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/15.Functions/01.introduction_to_functions.md",
+      "gitBlobSha": "bbe0a46d9d6c207918dbef2a104fbf232cb96143"
+    },
+    {
+      "path": "Semester_1/python/15.Functions/02.function_parameters_return_arguments.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/15.Functions/02.function_parameters_return_arguments.md",
+      "gitBlobSha": "3a0b30e3ad4497c2a5c4446c1d36ee387ceec28e"
+    },
+    {
+      "path": "Semester_1/python/15.Functions/03.function_args_kwargs_advanced.md",
+      "url": "https://github.com/codinggita/CGxSU_Semester_1/blob/main/Semester_1/python/15.Functions/03.function_args_kwargs_advanced.md",
+      "gitBlobSha": "7a0f37f2a0ddde32aa26cfc2f086da5d123ebf73"
+    }
+  ]
+}

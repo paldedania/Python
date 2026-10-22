@@ -39,3 +39,27 @@ match {var}:
 	...
 	case{ _ }:
 	    default case
+
+# Functions 
+
+- we use ***/*** when We want that before that the parameters used should only be positional parameters.
+- we use * when we want that after that the parameters used should only be keyword parameters. 
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

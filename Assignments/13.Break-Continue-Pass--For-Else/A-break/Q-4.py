@@ -1,7 +1,9 @@
-num = int(input("Enter a number:"))
-num2=1
-while num!=num2:
-    if num2 == 7:
+limit = int(input())
+output = ""
+for number in range(1, limit + 1):
+    if number == 7:
         break
-    print(num2)
-    num2+=1
+    if output:
+        output += " "
+    output += str(number)
+print(output)
